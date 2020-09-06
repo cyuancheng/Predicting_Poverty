@@ -8,6 +8,8 @@ Chiyuan Cheng (08/2020)
 - Gaussian Mixture Model is used to classify the daytime satellite imagery into three classes, based on the luminosity.
 - Transfer learning (VGG16, ResNet50, Inception C3) to capture features from daytime satellite imagery and predict poverty, with the 80% accuracy from the best model.
 
+![image](/figures/Fig1.png)
+
 ### Report
 - [Presentation slide](https://docs.google.com/presentation/d/13KgTJkdyjjubUSS5dwITZT3ruCCU9iCJ3A_uSp24nT8/edit?usp=sharing)
 - [Final report](https://drive.google.com/file/d/1ZdsWbX4VsiD6wMjic_lAjuNo_9WTPhTL/view?usp=sharing)
