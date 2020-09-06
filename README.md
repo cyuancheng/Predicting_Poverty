@@ -1,5 +1,6 @@
-# Predicting_Poverty
-Poverty Prediction by Satellite Images and Deep Learning
+# Poverty Prediction by Satellite Images and Deep Learning
+### Capstone Project 2 (Springboard - Data Science Career Track)
+Chiyuan Cheng (08/2020)
 
 ### Summary
 - This project uses transfer learning to predict poverty (Wealth index) of a sub-Saharan African country, Burundi, in 2010. 
