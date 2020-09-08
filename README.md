@@ -11,7 +11,7 @@ Chiyuan Cheng (08/2020)
 ![image-1](/figures/Fig-1.png) ![image-2](/figures/Fig-2.png)
 
 ### Report
-- [Presentation slide](https://docs.google.com/presentation/d/13KgTJkdyjjubUSS5dwITZT3ruCCU9iCJ3A_uSp24nT8/edit?usp=sharing)
+- [Presentation slide](https://docs.google.com/presentation/d/1034MHY-BIa1MYBNChkOpl3GlVxD0ZtwbV8zoKQwSotI/edit?usp=sharing)
 - [Final report](https://drive.google.com/file/d/1ZdsWbX4VsiD6wMjic_lAjuNo_9WTPhTL/view?usp=sharing)
 
 
